@@ -101,7 +101,7 @@ section{
     background: var(--bg);
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
     padding:1.5rem 7%;
     border-bottom: var(--border);
     position: fixed;
